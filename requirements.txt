@@ -1,0 +1,26 @@
+# Tested with Python 3.11 and CUDA 13.0.
+# Install these CUDA wheels from the PyTorch index before this file; see README.
+torch==2.10.0+cu130
+torchvision==0.25.0+cu130
+
+# Build tools.
+setuptools==80.10.2
+wheel==0.46.3
+packaging==25.0
+
+# Core scientific stack.
+easydict==1.13
+numpy==2.2.6
+opencv-python-headless==4.13.0.92
+pandas==2.2.3
+Pillow==12.1.1
+scipy==1.14.1
+
+# Logging and utilities.
+tensorboardX==2.6.4
+torchsummary==1.5.1
+tqdm==4.67.3
+
+# NATTEN wheels are CUDA/PyTorch-version specific. The installed test build
+# reports as 0.21.5+torch2100cu130 and satisfies this exact base version.
+natten==0.21.5

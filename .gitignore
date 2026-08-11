@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Local data and generated artifacts
+data/
+MovingDroneCrowd/
+checkpoints/
+pre_train_model/
+exp/
+record/
+record_*/
+logs/
+test_results/
+visual_results/
+output/
+figures/ICIG_vis/
+
+# Model and tensor artifacts
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.pkl
+*.tar
+*.zip
+
+# Runtime noise
+nohup.out
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+.ipynb_checkpoints/
