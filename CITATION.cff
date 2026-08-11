@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our ICIG 2026 paper as below."
+
+authors:
+- family-names: "Huang"
+  given-names: "Pengqi"
+  email: "2023211031@stu.hit.edu.cn"
+- family-names: "Liu"
+  given-names: "Xinyan"
+  email: "xinyliu@hit.edu.cn"
+- family-names: "Zou"
+  given-names: "Difan"
+  email: "dzou@hku.hk"
+- family-names: "Chen"
+  given-names: "Weidong"
+  email: "chenweidong@ustc.edu.cn"
+- family-names: "Zhang"
+  given-names: "Weigang"
+  email: "wgzhang@hit.edu.cn"
+- family-names: "Huang"
+  given-names: "Qingming"
+  email: "qmhuang@ucas.ac.cn"
+- family-names: "Chan"
+  given-names: "Antoni B."
+  email: "abchan@cityu.edu.hk"
+
+title: "SMANet: Probabilistic Gating and Neighborhood Attention for Video Individual Counting"
+version: 1.0.0
+date-released: 2026-08-11
+url: "https://github.com/streamer-AP/SMANET"
+license: "MIT"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Huang"
+    given-names: "Pengqi"
+  - family-names: "Liu"
+    given-names: "Xinyan"
+  - family-names: "Zou"
+    given-names: "Difan"
+  - family-names: "Chen"
+    given-names: "Weidong"
+  - family-names: "Zhang"
+    given-names: "Weigang"
+  - family-names: "Huang"
+    given-names: "Qingming"
+  - family-names: "Chan"
+    given-names: "Antoni B."
+  title: "SMANet: Probabilistic Gating and Neighborhood Attention for Video Individual Counting"
+  conference:
+    name: "ICIG 2026"
+    year: 2026
+  # 如果有 DOI 或页码，等出版后可以补充：
+  # doi: "10.xxxx/xxxxx"
+  # pages: "xxx-xxx"
