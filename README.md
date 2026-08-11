@@ -301,13 +301,6 @@ Download links for released checkpoints will be updated here.
 | --- | --- | --- | --- |
 | SMANet | MovingDroneCrowd | VGG16-FPN | [百度网盘下载](https://pan.baidu.com/s/17nAckrD_zeDiJs9i5sEBjg) (提取码: `k55q`) |
 
-## Notes for Open-Source Release
-
-- Do not commit raw datasets, generated optical flow, checkpoints, logs, or local visual outputs.
-- Before making the repository public, scan the final repository and git history with tools such as `gitleaks` or `trufflehog`.
-- If a secret or private path appears in git history, rewrite history or create a clean repository before public release.
-- Confirm every dataset license before redistributing data or derived annotations.
-
 ## Citation
 
 If you find this work useful for your research, please cite our paper:
