@@ -299,7 +299,7 @@ Download links for released checkpoints will be updated here.
 
 | Model | Dataset | Backbone | Checkpoint |
 | --- | --- | --- | --- |
-| SMANet | MovingDroneCrowd | VGG16-FPN | To be updated |
+| SMANet | MovingDroneCrowd | VGG16-FPN | [百度网盘下载](https://pan.baidu.com/s/17nAckrD_zeDiJs9i5sEBjg) (提取码: `k55q`) |
 
 ## Notes for Open-Source Release
 
@@ -310,9 +310,15 @@ Download links for released checkpoints will be updated here.
 
 ## Citation
 
-The citation will be updated after the official ICIG 2026 proceedings are released.
+If you find this work useful for your research, please cite our paper:
 
 ```bibtex
+@inproceedings{huang2026smanet,
+  author    = {Pengqi Huang and Xinyan Liu and Difan Zou and Weidong Chen and Weigang Zhang and Qingming Huang and Antoni B. Chan},
+  title     = {SMANet: Probabilistic Gating and Neighborhood Attention for Video Individual Counting},
+  booktitle = {ICIG 2026},
+  year      = {2026},
+}
 ```
 
 ## Funding
